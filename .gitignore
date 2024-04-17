@@ -1,7 +1,10 @@
 # Logs
 logs
 *.log
-!miLog.log
+
+#Agregdo para que no se ignore entre los logs... 
+!miLog.log 
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
